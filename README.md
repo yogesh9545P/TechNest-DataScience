@@ -1,6 +1,22 @@
-# 🧪 Titanic Data Pipeline — ETL Project
+# 🧪 Titanic Dataset ETL PROCESS
 
-This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline on the famous Titanic dataset using Python and pandas in Jupyter Notebook.
+## 📷 ETL Diagram
+
+![ETL Diagram](![etl_titanic_process png](https://github.com/user-attachments/assets/0bc9f3bb-db96-4ad7-bae2-0f6c2680c876)
+)
+
+---
+
+## 🛠️ Tools Used
+
+- Python (pandas, numpy)
+- Jupyter Notebook
+- GitHub
+
+---
+
+
+---This project demonstrates a complete **ETL (Extract, Transform, Load)** pipeline on the famous Titanic dataset using Python and pandas in Jupyter Notebook.
 
 ---
 
@@ -22,24 +38,6 @@ Includes a **visual ETL process diagram** for better understanding.
 - `cleaned_titanic.csv`: Cleaned dataset ready for analysis
 - `etl_titanic_process.png`: Visual explanation of ETL steps
 - `Titanic_Data_Pipeline_with_ETL_Image.ipynb`: Full working notebook
-
----
-
-## 📷 ETL Diagram
-
-![ETL Diagram](![etl_titanic_process png](https://github.com/user-attachments/assets/0bc9f3bb-db96-4ad7-bae2-0f6c2680c876)
-)
-
----
-
-## 🛠️ Tools Used
-
-- Python (pandas, numpy)
-- Jupyter Notebook
-- GitHub
-
----
-
 
 ---
 
