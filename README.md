@@ -1,6 +1,5 @@
 # 🧪 Titanic Dataset ETL PROCESS
 
-## 📷 ETL Diagram
 
 ![ETL Diagram](![etl_titanic_process png](https://github.com/user-attachments/assets/0bc9f3bb-db96-4ad7-bae2-0f6c2680c876)
 )
